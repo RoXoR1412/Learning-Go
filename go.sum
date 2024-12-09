@@ -8,3 +8,7 @@ github.com/RoXoR1412/puppy v0.0.0-20241208210734-c417aeaa66e7 h1:KTlf67RMRu45OBp
 github.com/RoXoR1412/puppy v0.0.0-20241208210734-c417aeaa66e7/go.mod h1:Gt+pllt/+5fMhMuJN8LWCEL6fcIY8/i5vcZHlLiVvPY=
 github.com/RoXoR1412/puppy v0.0.0-20241208211614-4cf68e9e31b6 h1:j2SeHlh96qooyXeTCN6uMzGiPCvxYpRO1Kl0ofO+FKE=
 github.com/RoXoR1412/puppy v0.0.0-20241208211614-4cf68e9e31b6/go.mod h1:TWtQTPUQNi62XffxC7R7Sdx0Fm6ofQCQnkF/va3bIdA=
+github.com/RoXoR1412/puppy v1.1.0 h1:b9JPM3NwaQMxJ3WJrs0dRPIs3Bw53CZLGSoSDAt0JB4=
+github.com/RoXoR1412/puppy v1.1.0/go.mod h1:TWtQTPUQNi62XffxC7R7Sdx0Fm6ofQCQnkF/va3bIdA=
+github.com/RoXoR1412/puppy v1.2.0 h1:g3oAB822LOJ+1xywFc3TLkDIXPdXRozLAwjjqmSUP7Y=
+github.com/RoXoR1412/puppy v1.2.0/go.mod h1:TWtQTPUQNi62XffxC7R7Sdx0Fm6ofQCQnkF/va3bIdA=
